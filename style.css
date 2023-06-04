@@ -1,0 +1,180 @@
+/* Estilos gerais */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #080076;
+
+}
+
+/* Estilos para o cabeçalho */
+header {
+  background-color: #ffffff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-buttons,
+.right-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.header-button {
+  background-color: #080076;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Estilos para o logotipo */
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 130px;
+  height: auto;
+}
+
+html, body{
+  margin: 0;
+}
+
+
+footer {
+  background-color: #ffffff;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.sponsor-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sponsor-item {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.nikee {
+  width: 100px;
+  height: auto;
+}
+.itauu {
+  width: 60px;
+  height: auto;
+}
+.vivoo {
+  width: 100px;
+  height: auto;
+}
+
+.chevroo {
+  width: 100px;
+  height: auto;
+}
+
+.produtos1{
+  display: flex;
+  justify-content: space-between;
+  margin-top:70px;
+  margin-bottom: 50px;
+  height: auto;
+  flex-direction: row;
+ 
+}
+.p1{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+  
+}
+.p2{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.p3{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.p4{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.produtos2{
+  display: flex;
+  justify-content: space-between;
+  margin-top:70px;
+  margin-bottom: 50px;
+  height: auto;
+  flex-direction: row;
+
+
+}
+.p5{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.p6{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.p7{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+}
+.p8{
+  width: 300px;
+  height: 350px;
+  background-color: white;
+  border-radius: 20px;
+  
+  
+}
+.produtos1 img{
+  width: 200px;
+  height: 200px;
+}
+*{
+  text-decoration: none;
+}
+
